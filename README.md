@@ -31,4 +31,4 @@ npm install
 npm start
 ```
 
-The React application is located in the `src/renderer` directory. This directory contains all the necessary components, utilities, styles, and other resources for the application.
+The React application is located in the `src/renderer` directory, which contains all the UI-related files.
