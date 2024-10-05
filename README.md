@@ -1,10 +1,10 @@
-## Draft-Craft
+# Draft-Craft
 
 This project is a notes app built using React and Electron. The app features a simple, user-friendly interface designed for productivity and note management.
 
-### Setting Up the Project
+## Setting Up the Project
 
-## Prerequisites
+### Prerequisites
 
 Before starting, ensure that you have the following tools installed:
 
@@ -17,9 +17,9 @@ Before starting, ensure that you have the following tools installed:
    - [Official Download Page](https://git-scm.com/downloads)
    - Installation Instructions: [How to Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-## Installation
+### Installation
 
-- Install the necessary dependencies:
+- Bootstrap the `npm` project:
 
 ```bash
 npm install
@@ -31,4 +31,4 @@ npm install
 npm start
 ```
 
-The source code for the React app is located in the `src/renderer` directory. This directory contains all the necessary components, utilities, styles, and other resources for the application.
+The React application is located in the `src/renderer` directory. This directory contains all the necessary components, utilities, styles, and other resources for the application.
