@@ -14,13 +14,9 @@ Before starting, ensure that you have the following tools installed:
 1. **Node.js** (v20)
 
    - [Official Download Page](https://nodejs.org/en/download/)
-   - Installation Instructions: [How to Install Node.js](https://nodejs.dev/learn/how-to-install-nodejs)
+   - Installation Instructions: [How to Install Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-2. **npm**
-
-   - npm is included with Node.js, so installing Node.js will also install npm. For more details, visit the [npm Documentation](https://docs.npmjs.com/getting-started/installation).
-
-3. **Git**
+2. **Git**
    - [Official Download Page](https://git-scm.com/downloads)
    - Installation Instructions: [How to Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
