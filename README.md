@@ -6,7 +6,6 @@ This project is a notes app built using React and Electron. It allows users to c
 
 - **Markdown-based Note-Taking**: Create, edit, and save notes using markdown.
 - **File Organization**: Organize notes into folders and subfolders.
-- **Search Functionality**: Quickly search through notes.
 
 ## Prerequisites
 
@@ -16,17 +15,17 @@ Before starting, ensure that you have the following tools installed:
 2. **npm** or **yarn**
 3. **Git**
 
-## Clone the Repository
+## Installation Steps
 
-First, clone the repository and install the necessary dependencies:
+- First, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone --depth 1 --branch main https://github.com/electron-react-boilerplate/electron-react-boilerplate.git your-project-name
-cd your-project-name
+git clone https://github.com/Kicchu02/Draft-Craft.git
+cd Draft-Craft
 npm install
 ```
 
-## Starting Development
+- Run application
 
 Use this command to start the development server:
 
@@ -35,11 +34,3 @@ npm start
 ```
 
 This will launch the app in development mode, where you can see changes live as you develop.
-
-## Packaging for Production
-
-To package the app for production on your local platform, run the following command:
-
-```bash
-npm run package
-```
